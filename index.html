@@ -37,12 +37,73 @@ Heroku, Digital Ocean, Docker, Kubernetes, Minikube, Podman."
 			content="https://res.cloudinary.com/driebgbfe/image/upload/v1730833077/cv_ekkomx.png"
 		/>
 		<title>Vedat Erenoglu's CV</title>
+		<style>
+			body {
+				margin: 0;
+				padding: 0;
+				font-family: Arial, sans-serif;
+				background-color: #f5f5f5;
+			}
+			.cv-container {
+				width: 100%;
+				height: 100vh;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+			}
+			.pdf-viewer {
+				width: 100%;
+				height: 100%;
+				border: none;
+				box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+			}
+			.fallback {
+				text-align: center;
+				padding: 40px;
+				background-color: white;
+				border-radius: 8px;
+				box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+				max-width: 600px;
+				margin: 20px;
+			}
+			.download-link {
+				display: inline-block;
+				padding: 12px 24px;
+				background-color: #007acc;
+				color: white;
+				text-decoration: none;
+				border-radius: 5px;
+				margin: 10px;
+				transition: background-color 0.3s;
+			}
+			.download-link:hover {
+				background-color: #005fa3;
+			}
+			.fallback img {
+				max-width: 100%;
+				height: auto;
+				border: 1px solid #ddd;
+				border-radius: 4px;
+				margin-top: 20px;
+			}
+		</style>
 	</head>
 	<body>
-		<iframe
-			src="https://vedaterenoglu.github.io/cv/VE-CV-EN.pdf"
-			height="2250"
-			width="100%"
-		></iframe>
+		<div class="cv-container">
+			<iframe
+				src="./VE-CV-EN.pdf"
+				class="pdf-viewer"
+				title="Vedat Erenoglu's CV"
+			>
+				<div class="fallback">
+					<p>Your browser doesn't support PDF viewing.</p>
+					<a href="./VE-CV-EN.pdf" class="download-link" download
+						>Download CV (PDF)</a
+					>
+					<br />
+					<a href="./ve-cv-png.jpg" target="_blank">View CV as Image</a>
+				</div>
+			</iframe>
+		</div>
 	</body>
 </html>
