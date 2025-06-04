@@ -35,7 +35,7 @@ Visit: [https://vedaterenoglu.github.io/cv/](https://vedaterenoglu.github.io/cv/
 
 - **Database & Serverless Postgres**: PostgreSQL, MySQL, MongoDB, Neon, Supabase, Prisma Postgres.
 
-- **Version Control**: Git, GitHub, GitLab
+- **Version Control**: Git, GitHub.
 
 ## 📧 Contact
 
