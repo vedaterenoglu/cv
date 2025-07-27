@@ -22,16 +22,18 @@ Visit: [https://vedaterenoglu.github.io/cv/](https://vedaterenoglu.github.io/cv/
   Using AI Agents in IDE (VSCode), MCP servers, Creating digital content with the help of AI - Copilot, Cody, ChatGPT, Gemini, Claude, Cursor, Windsurf, HeyGen, ElevenLabs
 
 - **Frontend & Full Stack**  
-  **Vue.js**: Vue Composition API - TypeScript, Vue Apollo Composable, Vuex, Pinia - Bulma, NaiveUI, Element Plus - i18n
-
-  **Vanilla JS**: TypeScript, HTML5, SCSS, CSS.
+  Reactjs, Vuejs, TypeScript, JavaScript, UX design, Nextjs, React Router, Tanstack Query, Tailwind CSS, Radix UI, Shadcn/UI, React Hook Form, AG Grid, Prisma, Drizzle, Redux, Redux Thunk, Redux Toolkit (RTK), Zustand, Zod, Vue Composition API, Vuex, Pinia, Bulma, NaiveUI, Element Plus, i18n, Vanilla JS, HTML5, SCSS, CSS.
 
 - **Backend & Server-Side**  
-  **Node.js**: Express.js, TypeScript (in backend) - Clerk, Auth0, JWT, Firebase Authentication - Prisma, Drizzle, Mongoose, Hasura.
+  Nodejs, Expressjs, Nestjs, TypeScript, Clerk, Auth0, JSON Web Tokens (JWT), Firebase Authentication, Drizzle, Mongoose, Prisma, Hasura.
 
-  **Ptyhon**: FastApi, Pydantic, SQLAlchemy, Prisma Client.
+- **Data Science**: Python, NumPy, Pandas, Matplotlib, Seaborn.
 
-- **DevOps & Tools**: Vercel, Netlify, Cloudflare, Heroku, Digital Ocean, Docker - SendGrid, Postmark, Mailersend, Cloudinary, Twilio.
+- **AI Assisted Development** (Agentic Coding): Code Editors & IDEs (Cursor, WindSurf, VSCode), AI-Enhanced Development Tools (Claude Code, Gemini Code, Warp Terminal), AI Coding Assistants (Copilot, Cody), Large Language Models (LLMs), and MCP Servers.
+
+- **DevOps & Deployment** Vercel, Netlify, Cloudflare, Heroku, Digital Ocean, Docker.
+
+- **Communication & Media Services** SendGrid, Postmark, Mailersend, Cloudinary, Twilio.
 
 - **Database & Serverless Postgres**: PostgreSQL, MySQL, MongoDB, Neon, Supabase, Prisma Postgres.
 
