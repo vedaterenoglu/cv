@@ -4,7 +4,7 @@
 
 #### My latest CV, highlights my experience as a Full Stack Developer with a focus on Frontend Development
 
-_Last updated on 2025-05-30_
+_Last updated on 2025-07-30_
 
 ## 🌐 Live Site
 
