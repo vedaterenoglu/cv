@@ -22,7 +22,7 @@ Visit: [https://vedaterenoglu.github.io/cv/](https://vedaterenoglu.github.io/cv/
   Using AI Agents in IDE (VSCode), MCP servers, Creating digital content with the help of AI - Copilot, Cody, ChatGPT, Gemini, Claude, Cursor, Windsurf, HeyGen, ElevenLabs
 
 - **Frontend & Full Stack**  
-  Reactjs, Vuejs, TypeScript, JavaScript, UX design, Nextjs, React Router, Tanstack Query, Tailwind CSS, Radix UI, Shadcn/UI, React Hook Form, AG Grid, Prisma, Drizzle, Redux, Redux Thunk, Redux Toolkit (RTK), Zustand, Zod, Vue Composition API, Vuex, Pinia, Bulma, NaiveUI, Element Plus, i18n, Vanilla JS, HTML5, SCSS, CSS.
+  Reactjs, Vuejs, TypeScript, JavaScript, UX design, Nextjs, React Router, Tanstack Query, Tailwind CSS, Radix UI, Shadcn/UI, React Hook Form, AG Grid, Prisma, Redux, Redux Thunk, Redux Toolkit (RTK), Zustand, Zod, Vue Composition API, Vuex, Pinia, Bulma, NaiveUI, Element Plus, i18n, Vanilla JS, HTML5, SCSS, CSS.
 
 - **Backend & Server-Side**  
   Nodejs, Expressjs, Nestjs, TypeScript, Clerk, Auth0, JSON Web Tokens (JWT), Firebase Authentication, Drizzle, Mongoose, Prisma, Hasura.
