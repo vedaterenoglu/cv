@@ -72,4 +72,4 @@ Third-party services (such as Clerk, Auth0, and Stripe) are integrated into exis
 
 ---
 
-📅 Last updated: August 15th, 2025
+📅 Last updated: January 13th, 2026
