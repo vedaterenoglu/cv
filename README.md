@@ -2,38 +2,38 @@
 
 #### My latest CV, highlights my experience as a Full Stack Developer with a focus on Frontend Development
 
-## 🌐 Live Site
+## 🌐 Personal Web Site
 
-Visit: [https://vedaterenoglu.github.io/cv/](https://vedaterenoglu.github.io/cv/)
+Visit: [https://vedaterenoglu.com/](https://vedaterenoglu.com/)
 
 ## 📄 Quick Access
 
 - [View PDF](./VE-CV-EN.pdf)
 - [Download CV](./VE-CV-EN.pdf)
 
-# Full Stack Developer with Focus on spec-driven development with Agentic Coding tools. | Malmö
+# Freelance Full Stack Developer | Specialist in Agentic Workflows & AI Automation | Malmö
 
-Over a decade of experience in the Swedish tech sector has been built up, with a focus on developing reliable and maintainable web applications. A project-centered approach is taken, where complex requirements are translated into functional, high-performance solutions.
+Based in Malmö, I am a freelance Full Stack Developer with extensive experience in the Swedish tech sector. I specialize in spec-driven development (SDD) and agentic coding tools, focusing on delivering reliable and maintainable software solutions. I take a project-centered approach, translating complex requirements into high-performance systems.s.
 
 ## Technical focus areas
 
+Agentic Systems & AI: Architecting autonomous AI agents capable of navigating complex codebases and executing multi-step refactors. I engineer custom "Human-in-the-Loop" (HITL) pipelines that integrate LLMs with GitHub Actions and CI/CD to automate workflows.
+
 ### Frontend & Full Stack
 
-Modern frameworks such as React (Next.js, TanStack Start frameworks) and Vue.js are utilized. Extensive use is made of TypeScript and Tailwind CSS to build responsive interfaces.
+Utilizing modern frameworks such as React, Vue.js, Solid.js, Next.js, and TanStack Start. I make extensive use of TypeScript and Tailwind CSS to build responsive, accessible interfaces.
 
-### Backend & Data
+### Backend & Integration
 
-Robust server-side logic is implemented using Node.js and Motia for workflow automation. Database management is handled through PostgreSQL, Prisma, and MongoDB.
+ Bridging the gap between AI orchestration (using Motia and Python) and robust production environments. I handle server-side logic with Node.js and database management through PostgreSQL, Prisma, and MongoDB.
 
-### AI-Assisted Development
+### Strategic Consulting
 
-Spec-driven development is practiced through the use of agentic coding tools like Cursor, Claude Code, and MCP servers. This allows for increased efficiency and higher code quality.
+Advising startups on transitioning from simple interfaces to Agentic Architectures that perform real-world actions and reduce operational overhead.
 
 ## Background
 
-Education was completed at Lund University and Lexicon Malmö, covering Advanced Programming and Agile Development. Professional experience includes a backend internship at IKEA Group and over 10 years of freelance work across Malmö and Stockholm.
-
-The goal is always to deliver software that is clean, well-documented, and easy for teams to maintain over the long term.
+EMy education was completed at Lund University and Lexicon Malmö, covering Advanced Programming, Database management, and Agile Development. My professional experience includes a backend internship at IKEA Group and over a decade of freelance work across Malmö and Stockholm.
 
 ## Languages
 
@@ -43,25 +43,25 @@ English (C1), Swedish (B2), and Turkish (Native).
 
 # Services Offered
 
-## Full Stack Web Application Development
-
-Responsive and high-performance web applications are developed using React, Vue, Tanstack Start and Next.js. A focus is placed on creating seamless user experiences through the implementation of modern frontend technologies and type-safe architectures with TypeScript.
-
 ## Spec Driven Development with Agentic Coding Tools
 
-Development workflows are optimized through the use of agentic coding tools (such as Cursor, Claude Code, Antigravity, OpenCode,and Trae). Spec-driven development is prioritized to ensure that software is built accurately, efficiently, and according to precise technical requirements.
+Development workflows are optimized through extensive experience with spec-driven development (SDD) and agentic coding tools, including Cursor, Trae, Antigravity, and Opencode. Autonomous AI agents are architected and deployed to navigate complex codebases, execute multi-step refactors, and manage end-to-end feature development. Spec-driven development principles are prioritized, utilizing frameworks like Agent OS and OpenSpec to ensure software is built accurately according to precise technical requirements.
+
+## Full Stack Web Application Development
+
+Responsive and accessible high-performance web applications are designed, developed, and deployed using React.js, Vue.js, Solid.js, Next.js, and TanStack Start. Seamless user experiences are created through the implementation of modern frontend technologies like Tailwind CSS and shadcn/ui, along with type-safe architectures using TypeScript. State management is handled with libraries such as Redux Toolkit, Zustand, and Pinia, while data fetching and forms are managed using TanStack Query and React Hook Form.
 
 ## Workflow Automation including AI integration
 
-Manual processes are streamlined and automated through the integration of Motia and other automation frameworks. Efficient backend workflows are designed to reduce technical debt and improve operational speed.
+Manual processes are streamlined and automated through custom "Human-in-the-Loop" (HITL) pipelines that integrate Large Language Models (LLMs) with GitHub Actions and CI/CD workflows. Backend workflows are designed using Motia, Python, and TypeScript to bridge the gap between AI orchestration and robust production environments. Strategic advice is provided on transitioning from simple interfaces to Agentic Architectures that perform real-world actions to reduce operational overhead.
 
 ## Backend Architecture & Database Management
 
-Scalable server-side solutions are constructed using Node.js and Express. Data integrity is maintained through the management of both SQL and NoSQL databases, including PostgreSQL (Prisma, Neon) and MongoDB, ensuring secure and reliable data flow.
+Scalable server-side systems are built using Node.js and Express.js. Data integrity and secure data flow are maintained through the management of various relational and serverless databases, including PostgreSQL, MySQL, MongoDB, Neon, and Supabase, often utilizing Prisma as an ORM.
 
 ## API Integration & DevOps
 
-Third-party services (such as Clerk, Auth0, and Stripe) are integrated into existing systems. Applications are deployed and managed using Vercel, Docker, and Cloudflare, with a constant emphasis on uptime and performance monitoring.
+Seamless integration of external services and APIs is ensured through the implementation of robust communication protocols and secure data flow. Communication and media services such as SendGrid, Twilio, and Cloudinary are integrated into existing systems. Applications are deployed and managed across various platforms, including Vercel, Netlify, Cloudflare, Heroku, DigitalOcean, and Docker, ensuring reliable deli very and performance.
 
 ## 📞 Contact
 
@@ -72,4 +72,4 @@ Third-party services (such as Clerk, Auth0, and Stripe) are integrated into exis
 
 ---
 
-📅 Last updated: January 13th, 2026
+📅 Last updated: February 17th, 2026
