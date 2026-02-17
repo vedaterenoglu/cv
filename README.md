@@ -47,13 +47,13 @@ English (C1), Swedish (B2), and Turkish (Native).
 
 Development workflows are optimized through extensive experience with spec-driven development (SDD) and agentic coding tools, including Cursor, Trae, Antigravity, and Opencode. Autonomous AI agents are architected and deployed to navigate complex codebases, execute multi-step refactors, and manage end-to-end feature development. Spec-driven development principles are prioritized, utilizing frameworks like Agent OS and OpenSpec to ensure software is built accurately according to precise technical requirements.
 
-## Full Stack Web Application Development
-
-Responsive and accessible high-performance web applications are designed, developed, and deployed using React.js, Vue.js, Solid.js, Next.js, and TanStack Start. Seamless user experiences are created through the implementation of modern frontend technologies like Tailwind CSS and shadcn/ui, along with type-safe architectures using TypeScript. State management is handled with libraries such as Redux Toolkit, Zustand, and Pinia, while data fetching and forms are managed using TanStack Query and React Hook Form.
-
 ## Workflow Automation including AI integration
 
 Manual processes are streamlined and automated through custom "Human-in-the-Loop" (HITL) pipelines that integrate Large Language Models (LLMs) with GitHub Actions and CI/CD workflows. Backend workflows are designed using Motia, Python, and TypeScript to bridge the gap between AI orchestration and robust production environments. Strategic advice is provided on transitioning from simple interfaces to Agentic Architectures that perform real-world actions to reduce operational overhead.
+
+## Full Stack Web Application Development
+
+Responsive and accessible high-performance web applications are designed, developed, and deployed using React.js, Vue.js, Solid.js, Next.js, and TanStack Start. Seamless user experiences are created through the implementation of modern frontend technologies like Tailwind CSS and shadcn/ui, along with type-safe architectures using TypeScript. State management is handled with libraries such as Redux Toolkit, Zustand, and Pinia, while data fetching and forms are managed using TanStack Query and React Hook Form.
 
 ## Backend Architecture & Database Management
 
