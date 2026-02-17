@@ -15,7 +15,7 @@ Visit: [https://vedaterenoglu.com/](https://vedaterenoglu.com/)
 
 [![About Me Video](./thumb.jpg)](https://res.cloudinary.com/driebgbfe/video/upload/v1771344474/about-me-2026-02-17_-_v2_imerxx.mp4)
 
-Watch: <https://res.cloudinary.com/driebgbfe/video/upload/v1771344474/about-me-2026-02-17_-_v2_imerxx.mp4>
+[Watch](https://res.cloudinary.com/driebgbfe/video/upload/v1771344474/about-me-2026-02-17_-_v2_imerxx.mp4)
 
 # Freelance Full Stack Developer | Specialist in Agentic Workflows & AI Automation | Malmö
 
