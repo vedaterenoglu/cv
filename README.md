@@ -11,6 +11,14 @@ Visit: [https://vedaterenoglu.com/](https://vedaterenoglu.com/)
 - [View PDF](./VE-CV-EN.pdf)
 - [Download CV](./VE-CV-EN.pdf)
 
+## 🎥 About Me (Video)
+
+<video controls width="720" poster="./og.jpg">
+  <source src="https://res.cloudinary.com/driebgbfe/video/upload/v1771344474/about-me-2026-02-17_-_v2_imerxx.mp4" type="video/mp4" />
+  Your browser does not support the video tag. Watch here:
+  <a href="https://res.cloudinary.com/driebgbfe/video/upload/v1771344474/about-me-2026-02-17_-_v2_imerxx.mp4">About Me Video (MP4)</a>
+</video>
+
 # Freelance Full Stack Developer | Specialist in Agentic Workflows & AI Automation | Malmö
 
 Based in Malmö, I am a freelance Full Stack Developer with extensive experience in the Swedish tech sector. I specialize in spec-driven development (SDD) and agentic coding tools, focusing on delivering reliable and maintainable software solutions. I take a project-centered approach, translating complex requirements into high-performance systems.s.
